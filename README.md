@@ -9,3 +9,5 @@ Results (Win/Draw/Loss; stat. significant Win/Draw/Loss):
 AdaBoosting: 11/1/10; 5/12/5
 Bagging: 17/1/4; 10/10/2
 DivBoosting (diversity based boosting): 4/0/18; 2/10/10
+
+Research conducted in June 2022
